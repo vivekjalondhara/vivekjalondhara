@@ -40,12 +40,16 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vivekjalondhara)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vivekjalondhara.dev@gmail.com)
+<a href="https://www.linkedin.com/in/vivekjalondhara" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
----
+<a href="mailto:vivekjalondhara011@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
 ### 💡 Fun Fact
 
