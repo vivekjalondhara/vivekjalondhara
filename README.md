@@ -42,7 +42,7 @@
 
 ### 🔗 Connect with Me
 
-<a href="https://www.linkedin.com/in/vivekjalondhara" target="_blank">
+<a href="https://www.linkedin.com/in/vivek-jalondhara" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
