@@ -14,11 +14,6 @@
 - 💻 Tech Stack: `React.js`, `Next.js`, `Node.js`, `NestJS`, `TypeScript`, `Express.js`
 - 🗃️ Databases: `MongoDB`, `PostgreSQL`, `TimescaleDB`
 - 🧰 Tools: `Redux`, `Tailwind CSS`, `JWT`, `Zod`, `Formik`, `Yup`, `Vite`, `Bun`
-- 🚀 Currently improving skills in:
-  - Advanced Auth: `JWT`, `OAuth2.0`, refresh token flow  
-  - MongoDB Aggregations, Indexing, Performance Tuning  
-  - Redis caching, Load Balancing, and Rate Limiting  
-  - Microservices, Clustering, Queues, Worker Threads
 
 ---
 
