@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Expert | Clean Code Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=2.4%2B+years+of+experience;React+%2B+Node+%2B+Mongo+Expert;Building+Scalable+CRM+Systems;Learning+DevOps%2C+Redis%2C+Auth+Flows;Let%E2%80%99s+Build+Something+Awesome!+%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=2.6%2B+years+of+experience;React+%2B+Node+%2B+Mongo+Expert;Building+Scalable+CRM+Systems;Learning+DevOps%2C+Redis%2C+Auth+Flows;Let%E2%80%99s+Build+Something+Awesome!+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 ---
